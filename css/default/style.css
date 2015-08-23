@@ -1111,6 +1111,15 @@ footer .copyright a {
 	text-transform: uppercase;
 	padding: 128px 0;
 }
+
+
+.pageCoverAboutUs {
+	background: url('../../images/page-cover-au.jpg') no-repeat scroll center top #22262c;
+	text-transform: uppercase;
+	padding: 128px 0;
+	}
+
+
 .pageCover h3 {
 	color: #fff;
 	font-family: 'Montserrat', sans-serif;
@@ -1917,7 +1926,7 @@ input[type="radio"]:checked + label {
 .offer_service h2:after {
 	width: 40px;
 	height: 2px;
-	background: #ea9c50;
+	background: #077e38;
 	content: '';
 	display: block;
 	margin: 15px 0 20px;
